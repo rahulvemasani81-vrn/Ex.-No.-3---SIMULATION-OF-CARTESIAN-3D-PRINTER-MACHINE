@@ -59,9 +59,24 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
+### X Axis Assembly
+<img width="827" height="817" alt="image" src="https://github.com/user-attachments/assets/2447d5b1-a9c0-4e24-887c-a2129d4b4e53" />
 
-### Name: 
-### Register Number:
+### Y Axis Assembly
+<img width="830" height="810" alt="image" src="https://github.com/user-attachments/assets/9002ff52-e10e-46c1-a835-3def701879ba" />
+
+### Z Axis Assembly
+<img width="833" height="771" alt="image" src="https://github.com/user-attachments/assets/6e145521-078e-43e4-9885-b8e7ee4e95da" />
+
+### Completed Assembly
+<img width="833" height="800" alt="image" src="https://github.com/user-attachments/assets/ca2aa784-bcdc-447c-a60f-a326b4ad6b9c" />
+
+### Playing with Axis
+<img width="791" height="677" alt="image" src="https://github.com/user-attachments/assets/321f29cc-c547-4e6e-ab33-00ffa0450add" />
+
+
+### Name: RAHUL
+### Register Number:212225230294
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
